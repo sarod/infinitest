@@ -1,6 +1,8 @@
 Notes for new developers
 =========================
 
+[![Join the chat at https://gitter.im/sarod/infinitest](https://badges.gitter.im/sarod/infinitest.svg)](https://gitter.im/sarod/infinitest?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 We strongly believe in Test-Driven Development.
 
 Get the source
